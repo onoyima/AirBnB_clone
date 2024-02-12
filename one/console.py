@@ -251,4 +251,3 @@ Function: Counts all the instances  of the class
 
 if __name__ == '__main__':
     HBNBCommand().cmdloop()
-
